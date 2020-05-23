@@ -1,2 +1,2 @@
 # Translate App (Ajax) with using API
- A translate App with Yandex Translate API
+ I created a translate app with using ajax 
